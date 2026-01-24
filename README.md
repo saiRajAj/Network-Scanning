@@ -21,16 +21,6 @@ This project demonstrates ethical network scanning and information gathering usi
 - 20 GB Disk Space
 - Kali Linux (Nmap preinstalled)
 
-## Project Structure
-Network-Scanning/
-├── network_scanning.sh
-├── README.md
-└── scan_results/
-    ├── host_discovery.txt
-    ├── port_scan.txt
-    ├── service_scan.txt
-    ├── os_detection.txt
-    └── aggressive_scan.txt
 
 ## How to Run
 chmod +x network_scanning.sh  
