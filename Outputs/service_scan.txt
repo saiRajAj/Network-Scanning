@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Sat Jan 24 16:59:38 2026 as: /usr/lib/nmap/nmap --privileged -sV -oN scan_results/service_scan.txt 192.168.68.2
+Nmap scan report for 192.168.68.2
+Host is up (0.034s latency).
+All 1000 scanned ports on 192.168.68.2 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Jan 24 16:59:43 2026 -- 1 IP address (1 host up) scanned in 5.41 seconds
