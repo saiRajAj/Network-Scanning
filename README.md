@@ -1,5 +1,9 @@
 # Network Scanning & Information Gathering using Nmap
 
+
+https://github.com/user-attachments/assets/b059a22e-d845-4093-af4a-8241ac988a1b
+
+
 ## Overview
 This project demonstrates ethical network scanning and information gathering using Nmap in a controlled environment. The goal is to identify live hosts, discover open or filtered ports, detect services, and perform OS and device-type detection to understand network security posture.
 
